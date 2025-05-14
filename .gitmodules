@@ -1,0 +1,15 @@
+[submodule "MyFirstApp"]
+	path = MyFirstApp
+	url = https://github.com/tu-usuario/MyFirstApp.git
+[submodule "NavigationApp"]
+	path = NavigationApp
+	url = https://github.com/etolozadev/NavigationApp.git
+[submodule "contextApp"]
+	path = contextApp
+	url = https://github.com/etolozadev/contextApp.git
+[submodule "iosCalculator"]
+	path = iosCalculator
+	url = https://github.com/etolozadev/iosCalculator.git
+[submodule "moviesApp"]
+	path = moviesApp
+	url = https://github.com/etolozadev/moviesApp.git
