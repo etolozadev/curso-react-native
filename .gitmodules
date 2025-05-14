@@ -1,6 +1,6 @@
 [submodule "MyFirstApp"]
 	path = MyFirstApp
-	url = https://github.com/tu-usuario/MyFirstApp.git
+	url = https://github.com/etolozadev/MyFirstApp.git
 [submodule "NavigationApp"]
 	path = NavigationApp
 	url = https://github.com/etolozadev/NavigationApp.git
